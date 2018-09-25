@@ -56,8 +56,8 @@ career-profile:
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Korea Advanced Institute of Science and Technology (KAIST)
+      time: 2010 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +68,9 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Electrical Engineering and Computer Science
+      university: Kyungpook National University (KNU)
+      time: 2006 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
