@@ -12,7 +12,7 @@ sidebar:
     avatar: profile_hyunwoocho.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: nonoriri86@gmail.com / nooriri@etri.re.kr
+    email: nonoriri86@gmail.com
     #phone: 012 345 6789
     #website: blog.webjeda.com #do not add http://
     #linkedin: alandoe
@@ -24,20 +24,20 @@ sidebar:
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      #- idiom: Spanish
+      #  level: Professional
         
     interests:
-      - item: Climbing
+      - item: Sking
         link:
 
-      - item: Snowboarding
+      - item: Diving
         link:
 
       - item: Cooking
