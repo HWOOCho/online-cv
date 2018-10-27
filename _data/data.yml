@@ -103,7 +103,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-     [Click here for details of the project](https://sites.google.com/view/hwoocho/). 
+    summary: |
+     [Click here for details of the project] (https://sites.google.com/view/hwoocho/). 
       
 
     assignments:
