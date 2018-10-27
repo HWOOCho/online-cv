@@ -129,7 +129,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can refer all of my publications from
+      You can refer all of my publications from <a href="https://scholar.google.co.kr/citations?user=6WDQQrAAAAAJ&hl=en" target="_blank">Google Scholar</a>.
     papers:
       - title: "ARStudio: AR Broadcasting System based on Multiple RGB-D Cameras"
         authors: Hyunwoo Cho, Sung-Uk Jung, Suwon Lee, Young-Suk Yoon, Sangheon Park, Hyung-Keun Jee
