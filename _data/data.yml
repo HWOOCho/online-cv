@@ -81,22 +81,14 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Researcher, Creative Content Research Division SW·Content Research Laboratory
+      time: 2012 - Present
+      company: Electronics and Telecommunications Research Institute (ETRI)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Research Project (2018-Now): Development of participational AR platform for large-scale cultural space
 
-          - Bullet point
-          - Bullet point 
+          - Researches of a feature based SLAM for AR tracking
+          - Researches of HCI Issues in Augmented Reality 
 
     - role: Senior Software Engineer
       time: 2014 - 2015
