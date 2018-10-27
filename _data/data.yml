@@ -103,45 +103,36 @@ experiences:
 projects:
     title: Projects
     intro: >
-      <a href="https://sites.google.com/view/hwoocho/" target="_blank">Click here for the project details. (Online Portfolio)</a>. 
+      <a href="https://sites.google.com/view/hwoocho/" target="_blank">Click here for the project details. (Online Portfolio)</a>
       
 
     assignments:
-      - title: Velocity
+      - title: ARStudio
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Indoor 3D AR System for Education
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Indoor 3D AR System for Education."
 
-      - title: Tempo
+      - title: Makerless mobile AR platform
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Developed a self-contained mobile augmented reality system for over 1,000 planar targets using a binary descriptor."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      You can refer all of my publications from <a href="https://scholar.google.co.kr/citations?user=6WDQQrAAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: ARStudio: AR Broadcasting System based on Multiple RGB-D Cameras
+        authors: Hyunwoo Cho, Sung-Uk Jung, Suwon Lee, Young-Suk Yoon, Sangheon Park, Hyung-Keun Jee
+        conference: International Conference on ICT Convergence (ICTC 2018)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Real-time interactive AR system for broadcasting
+        authors: Hyunwoo Cho, Sung-Uk Jung, Hyung-Keun Jee
+        conference: IEEE Virtual Reality (VR2018)
 
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
