@@ -139,9 +139,21 @@ publications:
         authors: Hyunwoo Cho, Sung-Uk Jung, Hyung-Keun Jee
         conference: "IEEE Virtual Reality (VR2018)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "An AR-based safety training assistant in disaster for children"
+        authors: Sung-Uk Jung, Hyunwoo Cho, Hyung-Keun Jee
+        conference: "SIGGRAPH ASIA 2016"
+        
+      - title: "Efficient 3D content authoring framework based on mobile AR"
+        authors: Sang-Wook Lee, Jinki Jung, Jihye Hong, Suwon Lee, Hyunwoo Cho, Hyun S Yang
+        conference: "Virtual Systems and Multimedia (VSMM2012)"
+        
+      - title: "AR postcard: the augmented reality system with a postcard"
+        authors: Hyunwoo Cho, Jinki Jung, Kyusung Cho, Yong-Ho Seo, Hyun S Yang
+        conference: "ACM SIGGRAPH International Conference on Virtual Reality Continuum and Its Applications in Industry (VRCAI2011)"
+        
+      - title: "An interactive bulletin board with mobile devices"
+        authors: Hyunwoo Cho, Kyusung Cho, Hyun S Yang
+        conference: "ACM SIGGRAPH International Conference on Virtual Reality Continuum and Its Applications in Industry (VRCAI2010)"
 
 skills:
     title: Skills &amp; Proficiency
