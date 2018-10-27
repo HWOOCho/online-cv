@@ -107,9 +107,9 @@ projects:
       
 
     assignments:
-      - title: Velocity
+      - title: ARStudio
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Proposed an AR based real-time broadcasting system which perceives the indoor space using calibrated camera for broadcasting and RGB-D cameras."
 
       - title: DevStudio
         link: "#"
