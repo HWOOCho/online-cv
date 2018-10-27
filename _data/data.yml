@@ -126,13 +126,13 @@ publications:
       You can refer all of my publications from <a href="https://scholar.google.co.kr/citations?user=6WDQQrAAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
     papers:
-      - title: ARStudio: AR Broadcasting System based on Multiple RGB-D Cameras
+      - title: "ARStudio: AR Broadcasting System based on Multiple RGB-D Cameras"
         authors: Hyunwoo Cho, Sung-Uk Jung, Suwon Lee, Young-Suk Yoon, Sangheon Park, Hyung-Keun Jee
-        conference: International Conference on ICT Convergence (ICTC 2018)
+        conference: "International Conference on ICT Convergence (ICTC 2018)"
 
-      - title: Real-time interactive AR system for broadcasting
+      - title: "Real-time interactive AR system for broadcasting"
         authors: Hyunwoo Cho, Sung-Uk Jung, Hyung-Keun Jee
-        conference: IEEE Virtual Reality (VR2018)
+        conference: "IEEE Virtual Reality (VR2018)"
 
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
