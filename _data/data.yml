@@ -111,21 +111,19 @@ projects:
         link: "#hook"
         tagline: "Proposed an AR based real-time broadcasting system which perceives the indoor space using calibrated camera for broadcasting and RGB-D cameras."
 
-      - title: DevStudio
+      - title: Indoor 3D AR System for Education
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Developed an AR based education system which recognizes the real space based on RGB-D, augments the virtual objects and interacts between the objects and users in real space."
 
-      - title: Tempo
+      - title: Makerless mobile AR platform
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Developed a self-contained mobile augmented reality system for over 1,000 planar targets using a binary descriptor."
 
-      - title: Atom
+      - title: AR Postcard
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Proposed a postcard system which recognizes a card using a camera within a device (PC/Smart TV/Tablet PC) and augments the video of the sender fit to the card size."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 
 publications:
