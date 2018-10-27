@@ -85,17 +85,17 @@ experiences:
       time: 2012 - Present
       company: Creative Content Research Division SW·Content Research Laboratory
       details: |
-        Research Project (2018-Now): Development of participational AR platform for large-scale cultural space
+        (2018-Now): Development of participational AR platform for large-scale cultural space
 
           - Researches of a feature based SLAM for AR tracking
           - Researches of HCI Issues in Augmented Reality 
           
-        Research Project (2014-2017): Development of personalized and creative learning tutoring system based on participational interactive contents and collaborative learning technology
+        (2014-2017): Development of personalized and creative learning tutoring system based on participational interactive contents and collaborative learning technology
 
           - Researches and developments of an AR based real-time broadcasting system
           - Researches and developments on an 3D AR education system for children
           
-        Research Project (2012-2013): Development of learner-participational and interactive 3D Virtual learning contents technology
+        (2012-2013): Development of learner-participational and interactive 3D Virtual learning contents technology
 
           - Developments on a mobile AR platform
           - Researches of AR contents authoring and a planar target recognition and tracking
@@ -103,9 +103,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     [Click here for details of the project](https://sites.google.com/view/hwoocho/). 
+      
 
     assignments:
       - title: Velocity
