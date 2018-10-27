@@ -103,7 +103,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-     [Click here for details of the project] (https://sites.google.com/view/hwoocho/). 
+      '<a href="http://www.smartnav.org/eng/html/Index_New/" target="_blank">SMART-Navigation project</a> : Implementation of a virtual testbed, service validation using the testbed'. 
       
 
     assignments:
