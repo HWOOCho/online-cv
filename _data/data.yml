@@ -118,7 +118,7 @@ projects:
 
       - title: Makerless mobile AR platform
         link: "#"
-        tagline: "Developed a self-contained mobile augmented reality system for over 1,000 planar targets using a binary descriptor."
+        tagline: "Developed a mobile AR platform composed of an AR contents authoring tool and a real-time recognition engine. (1,000 planar targets using a binary descriptor)"
 
       - title: AR Postcard
         link: "#"
